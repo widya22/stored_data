@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">stored_data</string>
+    <string name="button2">Kembali</string>
+    <string name="button1">Simpan</string>
+    <string name="editText1">number</string>
+    <string name="textView1">Nomor</string>
+    <string name="editText2">text</string>
+    <string name="textView2">Nama</string>
+    <string name="editText3">number</string>
+    <string name="textView3">Tanggal Lahir</string>
+    <string name="editText4">number</string>
+    <string name="textView4">Jenis Kelamin</string>
+    <string name="editText5">number</string>
+    <string name="textView5">Alamat</string>
+
+</resources>
